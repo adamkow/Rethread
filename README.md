@@ -2,6 +2,7 @@
 
 Rethread is a marketplace for clothing enthusiasts to buy, sell, and negotiate apparel. Where individuals can discover unique pieces, engage in transactions, and build their style portfolios.
 
+[Full documentation](https://docs.google.com/document/d/1OaT9KnaHK_GAJyeDLr3mDM9NQTiXa9JK2-kfL96pm2M/edit?usp=sharing)
 ## Getting Started
 
 1. **Clone the repository:**
